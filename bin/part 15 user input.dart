@@ -5,4 +5,5 @@ void main() {
   print("Enter Your Name:");
   String? name = stdin.readLineSync();
   print("Welcome to $name");
+  print(name.runtimeType);
 }
