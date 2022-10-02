@@ -1,5 +1,5 @@
 //multiple inhertance is not present in dart language but we can achieve it by implicit interface.
-/* multiple inheritance means two parents class(i.e. mother and father) cannot have one child class */
+/* multiple inheritance means two parents class(i.e. mother and father) can have one child class */
 
 //Implicit interface
 //syntax-class class_name implements interface_name

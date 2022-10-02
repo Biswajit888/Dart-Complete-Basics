@@ -1,7 +1,7 @@
 void main() {
   var obj = Student1();
   obj.updateStudent();
-  var obj1 = Student1();
+  var obj1 = Student2();
   obj1.updateStudent();
 }
 
